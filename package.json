@@ -1,0 +1,11 @@
+{
+  "name": "roomie_expenses",
+  "version": "1.0.0",
+  "description": "Something to lift me up from the depths of a living hell",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "despair",
+  "license": "ISC"
+}
